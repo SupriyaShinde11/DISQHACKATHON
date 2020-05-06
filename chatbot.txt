@@ -1,0 +1,3 @@
+{
+"empEmail":"{{memory.email.raw}}
+}
